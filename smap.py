@@ -13,8 +13,8 @@ st.title("📱 SMAP")
 st.write("Bem-vindo ao aplicativo SMAP!")
 
 # Caminhos para os arquivos Excel
-smap_base = r'C:\Users\Fabiano\OneDrive - Telefonica\SMAP Acompanhamento\Versao indevido.xlsx'
-base_colaboradores = r'C:\Users\Fabiano\OneDrive - Telefonica\Anatel\Anatel2.0\Colaboradores.xlsx'
+smap_base = 'Versao indevido.xlsx'
+base_colaboradores = 'Colaboradores.xlsx'
 
 try:
     # Leitura dos arquivos
