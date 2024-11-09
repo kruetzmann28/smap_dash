@@ -7,10 +7,10 @@ import plotly.graph_objects as go
 st.set_page_config (page_title = 'SMAP')
 
 # Título da aplicação
-st.title("📱 SMAP")
+st.title("📱 ACOMPANHAMENTO SMAP")
 
 # Texto de introdução
-st.write("Bem-vindo ao aplicativo SMAP!")
+st.write("Dados abertura SMAP TOP:")
 
 # Caminhos para os arquivos Excel
 smap_base = 'Versao indevido.xlsx'
